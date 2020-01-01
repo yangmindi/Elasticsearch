@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/timeout机制详解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程PPT.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程笔记.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.md" beforeDir="false" afterPath="$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,14 +25,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第31节：分布式文档系统_图解写一致性原理以及quorum机制深入剖析.txt">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-11">
-                <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <first_editor relative-caret-position="390">
+                <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第32节：分布式文档系统_document查询内部原理图解揭秘.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="138" selection-start-line="6" selection-start-column="138" selection-end-line="6" selection-end-column="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -44,10 +64,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.md" />
+        <option value="$PROJECT_DIR$/资料/第32节：分布式文档系统_document查询内部原理图解揭秘.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="175" />
     <option name="y" value="15" />
     <option name="width" value="980" />
@@ -94,6 +115,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/资料" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -154,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577877549220</updated>
-      <workItem from="1577877552727" duration="742000" />
+      <workItem from="1577877552727" duration="1043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="742000" />
+    <option name="totallyTimeSpent" value="1043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -167,13 +189,13 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15281501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15281501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="LuaCheck" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33002833" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4858357" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -198,13 +220,27 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.txt">
+    <entry file="file://$PROJECT_DIR$/资料/第31节：分布式文档系统_图解写一致性原理以及quorum机制深入剖析.txt">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-11">
-            <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <first_editor relative-caret-position="390">
+            <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第32节：分布式文档系统_document查询内部原理图解揭秘.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="138" selection-start-line="6" selection-start-column="138" selection-end-line="6" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
