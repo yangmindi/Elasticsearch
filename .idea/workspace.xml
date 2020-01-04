@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/资料/第35节：初识搜索引擎_multi-index&amp;multi-type搜索模式解析以及搜索原理初步图解/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第36节：初识搜索引擎_分页搜索以及deep paging性能问题深度图解揭秘/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第37节：初识搜索引擎_快速掌握query string search语法以及_all metadata原理揭秘/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/资料/第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么/课程笔记.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -58,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="175" />
     <option name="y" value="15" />
     <option name="width" value="980" />
@@ -81,6 +94,18 @@
               <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ES1" type="462c0819:PsiDirectoryNode" />
               <item name="资料" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES1" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="第37节：初识搜索引擎_快速掌握query string search语法以及_all metadata原理揭秘" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES1" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,17 +193,17 @@
       <updated>1577877549220</updated>
       <workItem from="1577877552727" duration="1910000" />
       <workItem from="1578124392525" duration="193000" />
-      <workItem from="1578125397918" duration="1710000" />
+      <workItem from="1578125397918" duration="2444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3813000" />
+    <option name="totallyTimeSpent" value="4547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15884718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15884718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -194,7 +219,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30311614" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30311614" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -229,6 +254,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/资料/第35节：初识搜索引擎_multi-index&amp;multi-type搜索模式解析以及搜索原理初步图解/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第36节：初识搜索引擎_分页搜索以及deep paging性能问题深度图解揭秘/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第37节：初识搜索引擎_快速掌握query string search语法以及_all metadata原理揭秘/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么/课程笔记.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
