@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="" />
+    <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/资料/第33节：分布式文档系统_bulk api的奇特json格式与底层性能优化关系大揭秘/课程笔记.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,8 +41,33 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/资料/第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第39节：初识搜索引擎_精确匹配与全文搜索的对比分析/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第40节：初识搜索引擎_倒排索引核心原理快速揭秘/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第41节：初识搜索引擎_分词器的内部组成到底是什么，以及内置分词器的介绍/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资料/第42节：初识搜索引擎_query string的分词以及mapping引入案例遗留问题的大揭秘/课程笔记.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/资料/第43节：初识搜索引擎_什么是mapping再次回炉透彻理解/课程笔记.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -71,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="175" />
     <option name="y" value="15" />
     <option name="width" value="980" />
@@ -99,13 +112,7 @@
               <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ES1" type="462c0819:PsiDirectoryNode" />
               <item name="资料" type="462c0819:PsiDirectoryNode" />
-              <item name="第37节：初识搜索引擎_快速掌握query string search语法以及_all metadata原理揭秘" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ES1" type="462c0819:PsiDirectoryNode" />
-              <item name="资料" type="462c0819:PsiDirectoryNode" />
-              <item name="第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么" type="462c0819:PsiDirectoryNode" />
+              <item name="第43节：初识搜索引擎_什么是mapping再次回炉透彻理解" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,15 +200,15 @@
       <updated>1577877549220</updated>
       <workItem from="1577877552727" duration="1910000" />
       <workItem from="1578124392525" duration="193000" />
-      <workItem from="1578125397918" duration="2444000" />
+      <workItem from="1578125397918" duration="5333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4547000" />
+    <option name="totallyTimeSpent" value="7436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15884718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -263,6 +270,21 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/资料/第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第39节：初识搜索引擎_精确匹配与全文搜索的对比分析/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第40节：初识搜索引擎_倒排索引核心原理快速揭秘/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第41节：初识搜索引擎_分词器的内部组成到底是什么，以及内置分词器的介绍/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第42节：初识搜索引擎_query string的分词以及mapping引入案例遗留问题的大揭秘/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第43节：初识搜索引擎_什么是mapping再次回炉透彻理解/课程笔记.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
