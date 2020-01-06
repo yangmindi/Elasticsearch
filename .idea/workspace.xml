@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2bd2c0e-7785-41e7-a984-031b23bc11ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeAggrApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeCRUDApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeSearchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,60 +25,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第33节：分布式文档系统_bulk api的奇特json格式与底层性能优化关系大揭秘/课程笔记.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="5">
+              <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第35节：初识搜索引擎_multi-index&amp;multi-type搜索模式解析以及搜索原理初步图解/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第36节：初识搜索引擎_分页搜索以及deep paging性能问题深度图解揭秘/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第37节：初识搜索引擎_快速掌握query string search语法以及_all metadata原理揭秘/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第38节：初识搜索引擎_用一个例子告诉你mapping到底是什么/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第39节：初识搜索引擎_精确匹配与全文搜索的对比分析/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第40节：初识搜索引擎_倒排索引核心原理快速揭秘/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第41节：初识搜索引擎_分词器的内部组成到底是什么，以及内置分词器的介绍/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/资料/第42节：初识搜索引擎_query string的分词以及mapping引入案例遗留问题的大揭秘/课程笔记.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeAggrApp.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/资料/第43节：初识搜索引擎_什么是mapping再次回炉透彻理解/课程笔记.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeSearchApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,14 +76,16 @@
       <list>
         <option value="$PROJECT_DIR$/资料/31.图解写一致性原理以及quorum机制深入剖析.md" />
         <option value="$PROJECT_DIR$/资料/第32节：分布式文档系统_document查询内部原理图解揭秘.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeCRUDApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="175" />
-    <option name="y" value="15" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,6 +93,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,27 +105,40 @@
             <path>
               <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ES1" type="462c0819:PsiDirectoryNode" />
-              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ES1" type="462c0819:PsiDirectoryNode" />
-              <item name="资料" type="462c0819:PsiDirectoryNode" />
-              <item name="第43节：初识搜索引擎_什么是mapping再次回炉透彻理解" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ES1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/资料" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,6 +150,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\尚硅谷\ElasticSearch\ES\ES1\src\main\java" />
+      <recent name="D:\尚硅谷\ElasticSearch\ES\ES1\src\main\resources" />
       <recent name="D:\尚硅谷\ElasticSearch\ES\ES1\资料" />
     </key>
   </component>
@@ -153,10 +167,105 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.App.getEmployee">
+    <configuration name="EmployeeCRUDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="com.roncoo.es.score.first.EmployeeCRUDApp" />
+      <module name="ES1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roncoo.es.score.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ES1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roncoo.es.score.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8-1" />
+      <option name="PACKAGE_NAME" value="com.roncoo.es.score.first" />
+      <option name="MAIN_CLASS_NAME" value="com.roncoo.es.score.first.App" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.deleteIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ES1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roncoo.es.score.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8-1" />
+      <option name="PACKAGE_NAME" value="com.roncoo.es.score.first" />
+      <option name="MAIN_CLASS_NAME" value="com.roncoo.es.score.first.App" />
+      <option name="METHOD_NAME" value="deleteIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.getEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ES1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roncoo.es.score.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8-1" />
+      <option name="PACKAGE_NAME" value="com.roncoo.es.score.first" />
+      <option name="MAIN_CLASS_NAME" value="com.roncoo.es.score.first.App" />
+      <option name="METHOD_NAME" value="getEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.updateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ES1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roncoo.es.score.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8-1" />
+      <option name="PACKAGE_NAME" value="com.roncoo.es.score.first" />
+      <option name="MAIN_CLASS_NAME" value="com.roncoo.es.score.first.App" />
+      <option name="METHOD_NAME" value="updateEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,6 +296,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.App.createIndex" />
+      <item itemvalue="JUnit.App.deleteIndex" />
+      <item itemvalue="JUnit.App.getEmployee" />
+      <item itemvalue="JUnit.App.updateEmployee" />
+      <item itemvalue="Application.EmployeeCRUDApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.App.getEmployee" />
+        <item itemvalue="JUnit.App.updateEmployee" />
+        <item itemvalue="Application.EmployeeCRUDApp" />
+        <item itemvalue="JUnit.App.createIndex" />
+        <item itemvalue="JUnit.App.deleteIndex" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -201,23 +326,58 @@
       <workItem from="1577877552727" duration="1910000" />
       <workItem from="1578124392525" duration="193000" />
       <workItem from="1578125397918" duration="5333000" />
+      <workItem from="1578307659991" duration="5977000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="App_createIndex - 2020.01.06 at 19h 56m 12s.xml">
+      <configuration name="App.createIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_deleteIndex - 2020.01.06 at 19h 57m 29s.xml">
+      <configuration name="App.deleteIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_createIndex - 2020.01.06 at 20h 38m 50s.xml">
+      <configuration name="App.createIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_getEmployee - 2020.01.06 at 20h 40m 16s.xml">
+      <configuration name="App.getEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_updateEmployee - 2020.01.06 at 20h 42m 31s.xml">
+      <configuration name="App.updateEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_getEmployee - 2020.01.06 at 20h 43m 17s.xml">
+      <configuration name="App.getEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_updateEmployee - 2020.01.06 at 20h 43m 39s.xml">
+      <configuration name="App.updateEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_updateEmployee - 2020.01.06 at 20h 53m 31s.xml">
+      <configuration name="App.updateEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_updateEmployee - 2020.01.06 at 20h 53m 47s.xml">
+      <configuration name="App.updateEmployee" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="App_getEmployee - 2020.01.06 at 20h 53m 59s.xml">
+      <configuration name="App.getEmployee" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7436000" />
+    <option name="totallyTimeSpent" value="13413000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15884718" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30227882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.39093485" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43342775" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,7 +386,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30311614" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30311614" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,6 +396,34 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Database" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30227882" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.39093485" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.43342775" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="LuaCheck" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30311614" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -243,9 +431,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/资料/第31节：分布式文档系统_图解写一致性原理以及quorum机制深入剖析.txt" />
     <entry file="file://$PROJECT_DIR$/资料/第32节：分布式文档系统_document查询内部原理图解揭秘.txt" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/资料/第34节：初识搜索引擎_search结果深入解析（search timeout机制揭秘）/课程笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -256,7 +441,7 @@
     <entry file="file://$PROJECT_DIR$/资料/第33节：分布式文档系统_bulk api的奇特json格式与底层性能优化关系大揭秘/课程笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -286,6 +471,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/资料/第43节：初识搜索引擎_什么是mapping再次回炉透彻理解/课程笔记.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/第44节：初识搜索引擎_mapping的核心数据类型以及dynamic mapping/课程笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/elasticsearch/elasticsearch/5.2.2/elasticsearch-5.2.2.jar!/org/elasticsearch/client/IndicesAdminClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/elasticsearch/elasticsearch/5.2.2/elasticsearch-5.2.2.jar!/org/elasticsearch/action/index/IndexRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeCRUDApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="74" selection-start-line="74" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <element signature="e#668#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeAggrApp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/roncoo/es/score/first/EmployeeSearchApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
